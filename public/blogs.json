@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "cover": "https://i.ibb.co.com/NZHb8J5/1.jpg",
+        "title": "The Rise of AI in Modern Technology",
+        "author": "John Doe",
+        "author_img": "https://i.ibb.co.com/t8smTQj/boy1.png",
+        "posted_date": "2024-10-15",
+        "reading_time": 5,
+        "hashtags": [
+            "#AI",
+            "#Technology",
+            "#Innovation"
+        ]
+    },
+    {
+        "id": 2,
+        "cover": "https://i.ibb.co.com/pRX5bph/2.png",
+        "title": "Exploring the Future of Green Energy",
+        "author": "Jane Smith",
+        "author_img": "https://i.ibb.co.com/QDKQBYk/boy2.jpg",
+        "posted_date": "2024-10-12",
+        "reading_time": 7,
+        "hashtags": [
+            "#GreenEnergy",
+            "#Sustainability",
+            "#Future"
+        ]
+    },
+    {
+        "id": 3,
+        "cover": "https://i.ibb.co.com/dKpX8gv/3.png",
+        "title": "How Blockchain is Reshaping Finance",
+        "author": "Michael Lee",
+        "author_img": "https://i.ibb.co.com/qdFntvC/girl1.jpg",
+        "posted_date": "2024-09-28",
+        "reading_time": 6,
+        "hashtags": [
+            "#Blockchain",
+            "#Finance",
+            "#Cryptocurrency"
+        ]
+    },
+    {
+        "id": 4,
+        "cover": "https://i.ibb.co.com/dLzK0J0/4.jpg",
+        "title": "Understanding Quantum Computing",
+        "author": "Alice Brown",
+        "author_img": "https://i.ibb.co.com/CV68vPF/girl2.jpg",
+        "posted_date": "2024-10-20",
+        "reading_time": 4,
+        "hashtags": [
+            "#QuantumComputing",
+            "#Science",
+            "#Technology"
+        ]
+    }
+]
