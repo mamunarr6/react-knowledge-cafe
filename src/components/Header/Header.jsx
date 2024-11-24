@@ -9,6 +9,7 @@ const Header = () => {
                     <img src={profile} alt="" />
                 </div>
             </div>
+            <hr className='my-4' />
         </div>
     );
 };
